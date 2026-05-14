@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../PRERNA"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BAMBO_COTTAGE"
+	}
+}
